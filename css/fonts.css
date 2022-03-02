@@ -1,0 +1,14 @@
+.font--g1--bold{
+    font-family: "Raleway";
+    font-weight: 700;
+}
+
+.font--g2--light{
+    font-family: "Poppins";
+    font-weight: 300;
+}
+
+.font--g2--regular{
+    font-family: "Poppins";
+    font-weight: 400;
+}

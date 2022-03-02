@@ -1,0 +1,12 @@
+@import url("./reset_components.css");
+@import url("./colors.css");
+@import url("./fonts.css");
+/*  */
+@import url("componets.css");
+@import url("../css/nav/nav.css");
+@import url("../css/introduction/introduction.css");
+@import url("../css/about/about.css");
+@import url("../css/service/service.css");
+@import url("../css/project/project.css");
+@import url("../css/gallery/gallery.css");
+@import url("../css/footer/footer.css");

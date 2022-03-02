@@ -1,0 +1,17 @@
+.main--container{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.button{
+    padding: 10px 20px;
+    background: var(--color-1);
+    color:var(--color-7);
+    border-radius: 2px;
+    text-align: center;
+    transition:  0.2s;
+}
+.button:hover{
+    background: var(--color-2);
+}
+
